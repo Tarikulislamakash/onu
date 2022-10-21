@@ -1,0 +1,229 @@
+@media only screen and (max-width: 1024px) {
+	.navbar-default .navbar-nav>li>a {
+	    font-size: 14px;
+	}
+
+	.service-icon {
+	    left: 30%;
+	}
+
+	.contact-right button {
+	    margin-left: -323px;
+	}
+
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+	.item h4 {
+	    font-size: 28px;
+	    font-weight: normal;
+	}
+
+	.item h2 {
+	    font-size: 80px;
+	    max-width: 612px;
+	}
+
+	.item h3 {
+	    font-size: 36px;
+	}
+
+	.navbar-default .navbar-nav>li>a {
+	    font-size: 13px;
+	}
+
+	.carousel-inner {
+	    margin-top: 8%;
+	}
+
+	.service-icon {
+	    left: 38%;
+	}
+
+	.button-group .button {
+	    margin-right: 3px;
+	}
+
+	.isotope-overlay h2 {
+	    margin-top: 38%;
+	    font-size: 24px;
+	}
+
+	form{
+		margin-left: 9%;
+	}
+
+	.contact-right button {
+	    margin-left: -75px;
+	}
+
+	.footer-text {
+	    left: 4%;
+	    position: absolute;
+	}
+
+}
+
+
+
+
+@media only screen and (max-width: 640px) {
+    .item h3 {
+    	font-size: 24px;
+	}
+
+	.item h2{
+		font-size: 58px;
+		width: 72%;
+	}
+
+	.item h4{
+		font-size: 19px;
+		font-weight: normal;
+	}
+
+	.single-content{
+		max-width: 65%;
+    	margin: 0 auto;
+	}
+
+	.single-service {
+	    max-width: 50%;
+	    margin: 20px auto;
+	}
+
+	.button-group .button {
+	    margin-right: 14px;
+	    font-size: 14px;
+	    margin-bottom: 14px;
+	}
+
+	.isotope-overlay h2 {
+	    margin-top: 42%;
+	    font-size: 26px;
+	}
+
+	.single-price {
+	    max-width: 50%;
+	    margin: 20px auto;
+	}
+
+	.element-item{
+		width: 50%
+	}
+
+	.sing-count {
+	    width: 50%;
+	    margin: 30px auto;
+	}
+
+}
+
+
+
+
+@media only screen and (max-width: 480px) {
+
+	.service-icon {
+	    left: 31%;
+	}
+
+    .isotope-overlay h2 {
+	    margin-top: 38%;
+	    font-size: 22px;
+	}
+
+	.footer-icon ul li i {
+	    font-size: 18px;
+	    margin-left: 6px;
+	}
+
+	.footer-text p {
+	    left: 18px;
+	}
+
+	.element-item {
+	    width: 100%;
+	}
+
+	.isotope-overlay h2 {
+	    margin-top: 42%;
+	    font-size: 28px;
+	}
+
+}
+
+
+
+
+@media only screen and (max-width: 320px) {
+    
+	.carousel-inner {
+	    margin-top: 19%;
+	}
+
+	.item h2 {
+	    font-size: 49px;
+	    width: 95%;
+	}
+
+	.item h4 {
+	    margin-bottom: 32px;
+	}
+
+	.page-header p {
+	    margin-bottom: 12%;
+	}
+
+	.single-service {
+	    max-width: 100%;
+	}
+
+	.service-icon {
+	    left: 34%;
+	}
+
+	.button-group .button {
+	    font-size: 13px;
+	}
+
+	.single-price {
+	    max-width: 80%;
+	}
+
+	.single-price ul li {
+	    font-size: 15px;
+	}
+
+	.sing-count {
+	    width: 90%;
+	}
+
+	.contact-right button {
+	    margin-left: -32px;
+	}
+
+	.footer-text {
+	    /* left: 4%; */
+	    position: absolute;
+	    /* display: block; */
+	    /* width: 135%; */
+	}
+
+	.footer-text p {
+	    font-size: 13px
+	}
+
+	footer {
+	    padding: 22px 0 78px 0;
+	}
+
+	.footer-icon {
+	    position: absolute;
+	    margin: 35px 0 0 76px;
+	}
+
+}
